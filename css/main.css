@@ -15,6 +15,9 @@ body {
 .cardContainer {
   flex: 1;
   box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 .cardContainerWrapper {
@@ -27,7 +30,7 @@ body {
 }
 
 .test {
-  background-image: url('./images/money.jpg');
+  background-color: red;
   background-size: cover;
   background-position: center; 
 }
