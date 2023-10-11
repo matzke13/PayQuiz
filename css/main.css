@@ -27,11 +27,17 @@ body {
 .card {
  width: 200px;
  height: 200px;
+ border-radius: 20px;
+
 }
 
 .test {
-  background-color: red;
+  background-image: url('/images/money.jpg');
+  background-size: cover; 
+  background-position: center;
   background-size: cover;
   background-position: center; 
 }
+
+
 
